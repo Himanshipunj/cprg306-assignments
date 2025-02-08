@@ -18,10 +18,16 @@ export default function Page() {
             Week 3
           </a>
         </p>
-        <p>
+        <p className="mb-2">
           Link to week 4:{" "}
           <a href="week-4" className="text-pink-500 hover:underline">
             Week 4
+          </a>
+        </p>
+        <p className="mb-2">
+          Link to week 5:{" "}
+          <a href="week-5" className="text-pink-500 hover:underline">
+            Week 5
           </a>
         </p>
       </div>
