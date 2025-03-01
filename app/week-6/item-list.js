@@ -1,5 +1,5 @@
 "use client";
-import Item from "./item";
+import Item from "./item.js";
 import itemsData from "./items.json"; // Import the JSON data
 import { useState } from "react";
 
