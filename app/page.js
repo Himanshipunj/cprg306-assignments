@@ -1,3 +1,4 @@
+"use-client";
 import Link from "next/link";
 export default function Page() {
   return (
@@ -46,6 +47,12 @@ export default function Page() {
           Link to week 8:{" "}
           <a href="week-8" className="text-pink-500 hover:underline">
             Week 8
+          </a>
+        </p>
+        <p className="mb-2">
+          Link to week 9:{" "}
+          <a href="week-9" className="text-pink-500 hover:underline">
+            Week 9
           </a>
         </p>
       </div>
